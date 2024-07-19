@@ -1,5 +1,5 @@
 # Advance-search-CrowdStrike
-This will give you visibility of the affected errors, you must add and run this script from the CrowdStrike terminal
+This will give you visibility of the affected errors, you must add and run this script from the CrowdStrike terminal:
 
 // Run with a time frame of "Last 1 day"
 #event_simpleName=ConfigStateUpdate event_platform=Win ComputerName=?ComputerName
